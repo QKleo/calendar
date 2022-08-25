@@ -1,0 +1,33 @@
+
+
+#wrapper{
+    width: 95%;
+    margin: 0 auto;
+}
+
+@media(min-width:576px){
+    #wrapper{
+        width: 95%;
+        margin: 0 auto;
+    }
+   
+
+}
+@media(min-width:768px){
+    #wrapper{
+        width: 95%;
+        margin: 0 auto;
+        
+    }
+   
+
+}
+@media(min-width:992px){
+    #wrapper{
+        width: 95%;
+        margin: 0 auto;
+    }
+   
+
+}
+
